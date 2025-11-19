@@ -20,3 +20,9 @@ body {
 #root {
   min-height: 100vh;
 }
+
+/* FullCalendar toolbar title - inspect'te çalışan selector */
+.fc .fc-toolbar-title {
+  font-size: 1.1em !important;
+  margin: 0px !important;
+}
