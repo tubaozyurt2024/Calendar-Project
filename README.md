@@ -2,6 +2,11 @@
 
 Bu dokümanda, React Project 2025 projesinde yapılan tüm geliştirmeler ve iyileştirmeler detaylı olarak açıklanmaktadır.
 
+## Projeyi Çalıştırmak için
+
+- npm install --legacy-peer-deps
+- npm run dev
+
 ## 📋 Yapılan Geliştirmeler
 
 ### 1. ✅ ProfileCard Bileşeni – Rol Gösterimi 
